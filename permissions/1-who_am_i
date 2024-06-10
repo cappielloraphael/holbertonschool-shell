@@ -1,2 +1,2 @@
 #!/bin/bash
-import os.getlogin
+print "nom_utilisateur"
